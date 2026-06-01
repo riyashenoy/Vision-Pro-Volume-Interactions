@@ -14,6 +14,8 @@ Unity PolySpatial workshop exploring Apple Vision Pro volume spaces. Learn how t
 
 > If you leave `Object Volume Limiter` enabled, the cube will snap back to its original position whenever you try to move it.
 
+<img src="README_images/img_1.png" width = 50%>
+
 At this point you can move the cube in and out of the portal, but it will still return to its starting position when you let go. Part 2 covers how to fix that.
 
 ---
