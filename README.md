@@ -1,3 +1,5 @@
+<img src="README_images/demogif.gif">
+
 # Vision-Pro-Volume-Interactions
 Unity PolySpatial workshop exploring Apple Vision Pro volume spaces. Learn how to move objects from volumetric windows into open spatial environments. Created for ACAD217 (USC Extended Reality Design Class).
 
